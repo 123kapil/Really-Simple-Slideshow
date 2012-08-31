@@ -10,7 +10,7 @@
 	-khtml-border-radius: 12px;
 	height: 240px;
 	margin: 24px auto;
-	overflow: hidden;
+	overflow: auto;
 	position: relative;
 	width: 620px;
 }
